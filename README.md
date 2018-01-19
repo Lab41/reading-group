@@ -5,11 +5,15 @@
 ### Presenters (next presentation date)
 
 Paul Gamble (1/8)
-['Paul', 'Maria', 'Cory', 'Jeff', 'Karl']
+
 Paul 1/22
+
 Maria 1/29
+
 Cory 2/5
+
 Jeff 2/12
+
 Karl 2/26
 
 ### Papers (presenter, date)
